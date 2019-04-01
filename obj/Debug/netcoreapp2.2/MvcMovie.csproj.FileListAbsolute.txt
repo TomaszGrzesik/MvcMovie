@@ -30,3 +30,8 @@
 /home/wrekkler/MVCapp/MvcMovie/obj/Debug/netcoreapp2.2/MvcMovie.csproj.CopyComplete
 /home/wrekkler/MVCapp/MvcMovie/obj/Debug/netcoreapp2.2/Razor/Views/HelloWorld/Index.g.cshtml.cs
 /home/wrekkler/MVCapp/MvcMovie/obj/Debug/netcoreapp2.2/Razor/Views/HelloWorld/Welcome.g.cshtml.cs
+/home/wrekkler/MVCapp/MvcMovie/obj/Debug/netcoreapp2.2/Razor/Views/Movies/Create.g.cshtml.cs
+/home/wrekkler/MVCapp/MvcMovie/obj/Debug/netcoreapp2.2/Razor/Views/Movies/Delete.g.cshtml.cs
+/home/wrekkler/MVCapp/MvcMovie/obj/Debug/netcoreapp2.2/Razor/Views/Movies/Details.g.cshtml.cs
+/home/wrekkler/MVCapp/MvcMovie/obj/Debug/netcoreapp2.2/Razor/Views/Movies/Edit.g.cshtml.cs
+/home/wrekkler/MVCapp/MvcMovie/obj/Debug/netcoreapp2.2/Razor/Views/Movies/Index.g.cshtml.cs
